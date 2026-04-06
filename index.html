@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find n Do | Studio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="app-card">
+        <header class="app-header">
+            <h3> SEARCH - SELECT - SHARE</h3>
+        </header>
+
+        <section class="selection-area">
+            <p class="label">Filter by category of your choice</p>
+            <div class="chip-container" id="vibe-grid">
+                <button class="chip active" data-vibe="all">Everything</button>
+                <button class="chip" data-vibe="fitness">Fitness</button>
+                <button class="chip" data-vibe="creative">Creative</button>
+                <button class="chip" data-vibe="meditation">Zen</button>
+                <button class="chip" data-vibe="productivity">Focus</button>
+            </div>
+        </section>
+
+        <section class="result-area">
+            <div id="result-display" class="empty">
+                <p id="activity-title">Select a vibe to begin</p>
+                <div class="meta-info">
+                    <span id="activity-difficulty"></span>
+                    <span id="activity-cost"></span>
+                </div>
+            </div>
+        </section>
+
+        <footer class="action-footer">
+            <button id="spin-btn">Generate Suggestion</button>
+        </footer>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
