@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IdeaSpark | Suggestion Engine</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <h1>What should I do?</h1>
+        <p class="subtitle">Choose a vibe and let us handle the rest.</p>
+        
+        <div class="controls">
+            <div class="input-group">
+                <label for="category-select">Category</label>
+                <div class="custom-select-wrapper">
+                    <select id="category-select">
+                        <option value="all">✨ Surprise Me (Any Category)</option>
+                        
+                        <optgroup label="Fitness">
+                            <option value="fitness">Fitness & Health</option>
+                            <option value="fitness">Outdoor Adventure</option>
+                            <option value="fitness">Team Sports</option>
+                        </optgroup>
+
+                        <optgroup label="Creative & Mindful">
+                            <option value="creative">Creative Arts</option>
+                            <option value="writing">Writing & Journaling</option>
+                            <option value="meditation">Meditation</option>
+                        </optgroup>
+
+                        <optgroup label="Productivity & Growth">
+                            <option value="productivity">Productivity</option>
+                            <option value="learning">New Skills</option>
+                            <option value="finance">Money Management</option>
+                        </optgroup>
+
+                        </select>
+                </div>
+            </div>
+            
+            <button id="spin-btn">Suggest Something!</button>
+        </div>
+
+        <div id="result-card" class="hidden">
+            <h2 id="activity-title">Activity Name</h2>
+            <div class="meta-tags">
+                <span id="activity-difficulty" class="tag">Difficulty</span>
+                <span id="activity-cost" class="tag">Cost</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

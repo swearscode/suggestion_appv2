@@ -1,0 +1,88 @@
+{
+  "categories": {
+    "fitness": [
+      {"title": "15-Minute HIIT Workout", "difficulty": "Hard", "cost": "Free"},
+      {"title": "Go for a 3-Mile Run", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Bodyweight Yoga Flow", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Trial Indoor Rock Climbing", "difficulty": "Hard", "cost": "$$"},
+      {"title": "100 Air Squats Challenge", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Follow a Zumba Video", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Power Walk in a Local Park", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Jump Rope for 10 Minutes", "difficulty": "Hard", "cost": "$"},
+      {"title": "Swimming Laps (30 Mins)", "difficulty": "Hard", "cost": "$$"},
+      {"title": "Full Body Stretching Routine", "difficulty": "Easy", "cost": "Free"}
+    ],
+    "creative": [
+      {"title": "Start a 10-Minute Sketch", "difficulty": "Easy", "cost": "$"},
+      {"title": "Bake a Loaf of Bread", "difficulty": "Medium", "cost": "$"},
+      {"title": "Learn a Magic Trick", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Follow a Bob Ross Tutorial", "difficulty": "Medium", "cost": "$$"},
+      {"title": "Create a Digital Collage", "difficulty": "Easy", "cost": "Free"},
+      {"title": "DIY Room Decor Project", "difficulty": "Medium", "cost": "$$"},
+      {"title": "Try Origami: Fold 3 Cranes", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Customise an Old T-Shirt", "difficulty": "Medium", "cost": "$"},
+      {"title": "Make a Vision Board", "difficulty": "Easy", "cost": "$"},
+      {"title": "Record a Short Podcast Clip", "difficulty": "Medium", "cost": "Free"}
+    ],
+    "writing": [
+      {"title": "Write a Haiku Poem", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Journal About Your Future Self", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Write a Short Sci-Fi Scene", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Draft a Letter to a Friend", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Create a 'Gratitude List'", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Write a Review for a Movie", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Try Automatic Writing (5 Mins)", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Rewrite a Fairy Tale Ending", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Compose a Poem in 10 Minutes", "difficulty": "Hard", "cost": "Free"},
+      {"title": "Start a Daily Food Blog Post", "difficulty": "Medium", "cost": "Free"}
+    ],
+    "meditation": [
+      {"title": "5-Minute Guided Breathing", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Body Scan Meditation", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Box Breathing Exercise", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Mindful Tea Drinking", "difficulty": "Easy", "cost": "$"},
+      {"title": "10-Minute Morning Zen", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Loving-Kindness Meditation", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Forest Bathing (Outdoor Walk)", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Chakra Balancing Session", "difficulty": "Hard", "cost": "Free"},
+      {"title": "Silent Meditation (15 Mins)", "difficulty": "Hard", "cost": "Free"},
+      {"title": "Affirmation Repetition", "difficulty": "Easy", "cost": "Free"}
+    ],
+    "productivity": [
+      {"title": "Clean Your Digital Desktop", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Update Your Resume", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Unsubscribe from Spam Emails", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Organize Your Kitchen Pantry", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Set 3 Goals for Next Week", "difficulty": "Easy", "cost": "Free"},
+      {"title": "File Your Important Documents", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Clean Your Keyboard/Mouse", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Plan Your Meals for 3 Days", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Batch Record Your Voice Memos", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Shadow a Coworker (Virtual)", "difficulty": "Hard", "cost": "Free"}
+    ],
+    "learning": [
+      {"title": "Watch a TED Talk", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Practice 5 New Phrases", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Learn a New Keyboard Shortcut", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Read a Wikipedia Article", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Master a Cooking Technique", "difficulty": "Medium", "cost": "$"},
+      {"title": "Watch a Science Documentary", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Solve 3 Sudoku Puzzles", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Listen to a History Podcast", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Take a 15-Min Coding Lesson", "difficulty": "Hard", "cost": "Free"},
+      {"title": "Learn to Read Sheet Music", "difficulty": "Hard", "cost": "Free"}
+    ],
+    "finance": [
+      {"title": "Review Your Subscriptions", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Set a Weekly Budget Goal", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Check Your Credit Score", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Research High-Yield Savings", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Track Your Spending Today", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Compare Car Insurance Rates", "difficulty": "Medium", "cost": "Free"},
+      {"title": "Set Up an Auto-Transfer", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Read a 5-Min Finance Article", "difficulty": "Easy", "cost": "Free"},
+      {"title": "Calculate Your Net Worth", "difficulty": "Hard", "cost": "Free"},
+      {"title": "Plan Your Retirement Contribution", "difficulty": "Hard", "cost": "Free"}
+    ]
+  }
+}
